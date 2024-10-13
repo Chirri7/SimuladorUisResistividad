@@ -1,1 +1,1 @@
-# SimuladorUisResistividad
+# Simulador---Resistividad
